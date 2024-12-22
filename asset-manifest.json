@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/css/main.159fe901.chunk.css",
-    "main.js": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/js/main.82fa2bcd.chunk.js",
-    "main.js.map": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/js/main.82fa2bcd.chunk.js.map",
-    "runtime~main.js": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/js/runtime~main.9afc3eaf.js",
-    "runtime~main.js.map": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/js/runtime~main.9afc3eaf.js.map",
-    "static/js/2.885fbe67.chunk.js": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/js/2.885fbe67.chunk.js",
-    "static/js/2.885fbe67.chunk.js.map": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/js/2.885fbe67.chunk.js.map",
-    "static/js/3.c60c86f6.chunk.js": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/js/3.c60c86f6.chunk.js",
-    "static/js/3.c60c86f6.chunk.js.map": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/js/3.c60c86f6.chunk.js.map",
-    "index.html": "/github.io/GoRide-Book-Taxi-Auto-Moto/index.html",
-    "precache-manifest.8f7e00942ecee20f884a105a0173305d.js": "/github.io/GoRide-Book-Taxi-Auto-Moto/precache-manifest.8f7e00942ecee20f884a105a0173305d.js",
-    "service-worker.js": "/github.io/GoRide-Book-Taxi-Auto-Moto/service-worker.js",
-    "static/css/main.159fe901.chunk.css.map": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/css/main.159fe901.chunk.css.map",
-    "static/media/goride.png": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/media/goride.6c937a56.png",
-    "static/media/logo.png": "/github.io/GoRide-Book-Taxi-Auto-Moto/static/media/logo.5b1fc650.png"
+    "main.css": "/GoRide-Book-Taxi-Auto-Moto/static/css/main.159fe901.chunk.css",
+    "main.js": "/GoRide-Book-Taxi-Auto-Moto/static/js/main.82fa2bcd.chunk.js",
+    "main.js.map": "/GoRide-Book-Taxi-Auto-Moto/static/js/main.82fa2bcd.chunk.js.map",
+    "runtime~main.js": "/GoRide-Book-Taxi-Auto-Moto/static/js/runtime~main.1f2a42a4.js",
+    "runtime~main.js.map": "/GoRide-Book-Taxi-Auto-Moto/static/js/runtime~main.1f2a42a4.js.map",
+    "static/js/2.885fbe67.chunk.js": "/GoRide-Book-Taxi-Auto-Moto/static/js/2.885fbe67.chunk.js",
+    "static/js/2.885fbe67.chunk.js.map": "/GoRide-Book-Taxi-Auto-Moto/static/js/2.885fbe67.chunk.js.map",
+    "static/js/3.c60c86f6.chunk.js": "/GoRide-Book-Taxi-Auto-Moto/static/js/3.c60c86f6.chunk.js",
+    "static/js/3.c60c86f6.chunk.js.map": "/GoRide-Book-Taxi-Auto-Moto/static/js/3.c60c86f6.chunk.js.map",
+    "index.html": "/GoRide-Book-Taxi-Auto-Moto/index.html",
+    "precache-manifest.47b575702ec35430e0d0a0182bf39238.js": "/GoRide-Book-Taxi-Auto-Moto/precache-manifest.47b575702ec35430e0d0a0182bf39238.js",
+    "service-worker.js": "/GoRide-Book-Taxi-Auto-Moto/service-worker.js",
+    "static/css/main.159fe901.chunk.css.map": "/GoRide-Book-Taxi-Auto-Moto/static/css/main.159fe901.chunk.css.map",
+    "static/media/goride.png": "/GoRide-Book-Taxi-Auto-Moto/static/media/goride.6c937a56.png",
+    "static/media/logo.png": "/GoRide-Book-Taxi-Auto-Moto/static/media/logo.5b1fc650.png"
   }
 }
