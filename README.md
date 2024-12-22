@@ -8,9 +8,6 @@ GoRide is a responsive and user-friendly application designed to simplify cab, a
 
 ![Screenshot 2024-12-22 181831](https://github.com/user-attachments/assets/747de483-48f7-468a-befb-d03e0f2a0715)
 
-![Screenshot 2024-12-22 181923](https://github.com/user-attachments/assets/a995cdc8-bfb6-47f5-8100-3549c7e726a3)
-
-
 
 ## 🚀 Features
 
@@ -19,6 +16,7 @@ GoRide is a responsive and user-friendly application designed to simplify cab, a
 - **Payment Options**: Integrated UPI and cash payment methods.
 - **Dynamic Routing**: Smooth navigation using React Router.
 - **Secure Transactions**: Ensures user data privacy and secure payments.
+  ![Screenshot 2024-12-22 181923](https://github.com/user-attachments/assets/a995cdc8-bfb6-47f5-8100-3549c7e726a3)
 
 ## 🛠️ Technologies Used
 
