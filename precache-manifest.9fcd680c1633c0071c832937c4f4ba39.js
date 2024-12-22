@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c624c8a8f9c787af476d972e5b9e1585",
+    "revision": "d38078c4291c722827c3176e5c7bd348",
     "url": "/GoRide-Book-Taxi-Auto-Moto/index.html"
   },
   {
-    "revision": "9cb3adf7107db3ea6dd8",
+    "revision": "bc29a2653ecf1914b4ad",
     "url": "/GoRide-Book-Taxi-Auto-Moto/static/css/main.159fe901.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GoRide-Book-Taxi-Auto-Moto/static/js/3.c60c86f6.chunk.js"
   },
   {
-    "revision": "9cb3adf7107db3ea6dd8",
-    "url": "/GoRide-Book-Taxi-Auto-Moto/static/js/main.82fa2bcd.chunk.js"
+    "revision": "bc29a2653ecf1914b4ad",
+    "url": "/GoRide-Book-Taxi-Auto-Moto/static/js/main.f0f3d29e.chunk.js"
   },
   {
     "revision": "236fc7cfd667cef0f248",
