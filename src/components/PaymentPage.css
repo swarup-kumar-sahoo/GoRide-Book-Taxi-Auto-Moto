@@ -1,0 +1,76 @@
+/* Payment Page styles */
+
+/* Styling for the payment page */
+body{
+    background-color: white;
+}
+.payment-page {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .payment-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .payment-left {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .payment-right {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Payment option styles */
+  .payment-options {
+    margin-bottom: 20px;
+  }
+  
+  .payment-options label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .pay-btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .pay-btn:hover {
+    background-color: #45a049;
+  }
+  
+  /* Payment image styling */
+  .payment-image {
+    width: 100px;
+    height: auto;
+  }
+  
+  
+  /* Mobile responsiveness */
+  @media (max-width: 768px) {
+    .payment-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .payment-left, .payment-right {
+      width: 100%;
+      text-align: center;
+    }
+  
+    .payment-image {
+      width: 80px;
+    }
+  }
+  

@@ -1,0 +1,30 @@
+.splash-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff; /* You can customize this background color */
+  }
+  
+  .logo {
+    width: 150px; /* Adjust size as per your logo */
+    height: auto;
+    animation: fadeIn 2s ease-out;
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  /* Make it responsive */
+  @media (max-width: 600px) {
+    .logo {
+      width: 120px;
+    }
+  }
+  

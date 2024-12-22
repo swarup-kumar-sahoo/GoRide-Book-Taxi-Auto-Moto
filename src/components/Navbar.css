@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background: #ffffff;
+  color: #ff3131;
+  font-family: "Archivo black";
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.profile {
+  position: relative;
+  cursor: pointer;
+}
+
+.profile-icon {
+  font-size: 1.5rem;
+}
+
+.profile-dropdown {
+  position: absolute;
+  top: 30px;
+  right: 0;
+  background: white;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}

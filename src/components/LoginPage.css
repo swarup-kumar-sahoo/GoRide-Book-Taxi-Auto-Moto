@@ -1,0 +1,113 @@
+/* Basic page styling */
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+}
+
+/* Center the login container */
+.login-container {
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white */
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px; /* Set a max width for the login box */
+  text-align: center;
+}
+
+.logo-section {
+  margin-bottom: 20px;
+}
+
+.app-logo {
+  max-width: 150px; /* Adjust logo size */
+  height: auto;
+}
+
+h1 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 20px;
+}
+
+/* Form styling */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  transition: border-color 0.3s ease;
+}
+
+input:focus {
+  border-color: #0056b3; /* Highlight input on focus */
+  outline: none;
+}
+
+button {
+  padding: 12px;
+  font-size: 16px;
+  background-color: #ff0000;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #930505; /* Darker shade on hover */
+}
+
+.separator {
+  margin: 20px 0;
+  color: #555;
+}
+
+.google-login {
+  padding: 12px;
+  background-color: #4285f4; /* Google blue */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.google-login:hover {
+  background-color: #357ae8; /* Darker Google blue */
+}
+
+/* Additional options (Forgot Password, Sign Up) */
+.additional-options {
+  font-size: 14px;
+  margin-top: 20px;
+  color: #333;
+}
+
+.additional-options a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+.additional-options a:hover {
+  text-decoration: underline;
+}
