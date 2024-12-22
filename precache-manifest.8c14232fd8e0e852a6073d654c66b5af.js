@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c9473d58c5b1f4566a7d3661a6129aa",
+    "revision": "c624c8a8f9c787af476d972e5b9e1585",
     "url": "/GoRide-Book-Taxi-Auto-Moto/index.html"
   },
   {

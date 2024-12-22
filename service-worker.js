@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GoRide-Book-Taxi-Auto-Moto/precache-manifest.47b575702ec35430e0d0a0182bf39238.js"
+  "/GoRide-Book-Taxi-Auto-Moto/precache-manifest.8c14232fd8e0e852a6073d654c66b5af.js"
 );
 
 self.addEventListener('message', (event) => {
